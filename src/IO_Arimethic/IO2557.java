@@ -1,4 +1,4 @@
-package code;
+package IO_Arimethic;
 
 public class IO2557 {
 	public static void main(String[] args) {

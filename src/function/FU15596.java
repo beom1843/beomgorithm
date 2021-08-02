@@ -1,4 +1,4 @@
-package Function;
+package function;
 
 public class FU15596 {
 	//Java: long sum(int[] a); (클래스 이름: Test)

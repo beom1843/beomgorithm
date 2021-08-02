@@ -1,4 +1,4 @@
-package IO_Arimethic;
+package io_arimethic;
 
 import java.util.Scanner;
 
